@@ -18,6 +18,7 @@ npm run build
 npm run build --report
 ```
 
+![](https://raw.githubusercontent.com/dirkteucher/vue-smooth-animation/master/preview.gif)
 
 It looks pretty smooth to me with 40 elements each containing 2 way data binded values and a setTimeout updating every 16ms 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
